@@ -1,7 +1,7 @@
 ## Template <div align="right"><img src="https://user-images.githubusercontent.com/2069763/142500908-691197fe-e6ab-4292-8e30-9af9f8b6ab6f.png" width="auto" height="25"> </img>
 </div>
 
-<img src="header.svg"></img>
+<img src="mainheader.svg"></img>
 
 Goals:
 
