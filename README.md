@@ -1,4 +1,4 @@
-## Vue.js <img src="https://user-images.githubusercontent.com/2069763/142498540-698dcc4b-f1e4-41ff-9490-3621b98f8191.png" width="auto" height="25"> <div align="right"><img src="https://user-images.githubusercontent.com/2069763/142500908-691197fe-e6ab-4292-8e30-9af9f8b6ab6f.png" width="auto" height="25"> </img>
+## Template <div align="right"><img src="https://user-images.githubusercontent.com/2069763/142500908-691197fe-e6ab-4292-8e30-9af9f8b6ab6f.png" width="auto" height="25"> </img>
 </div>
 
 <img src="header.svg"></img>
